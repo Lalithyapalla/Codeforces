@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 5 |
+| 6 | 6 |
 
 ---
 
@@ -14,9 +14,10 @@
 
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -37,6 +38,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/133/A%20-%20HQ9%2B/solution.py) |
+| 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/520/A%20-%20Pangram/solution.py) |
 | 1095B | [Array Stabilization](https://codeforces.com/contest/1095/problem/B) | 900 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/1095/B%20-%20Array%20Stabilization/solution.py) |
 
 ### math
@@ -52,6 +54,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.py) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/520/A%20-%20Pangram/solution.py) |
 
 ---
 
