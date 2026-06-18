@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 4 | 4 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (2)
-- [math](#math) (1)
+- [math](#math) (2)
 
 ---
 
@@ -42,6 +42,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.py) |
 | 1739B | [Array Recovery](https://codeforces.com/contest/1739/problem/B) | 1100 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/1739/B%20-%20Array%20Recovery/solution.py) |
 
 ---
