@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 4 |
+| 5 | 5 |
 
 ---
 
@@ -15,7 +15,8 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (2)
-- [math](#math) (2)
+- [math](#math) (3)
+- [number theory](#number-theory) (1)
 
 ---
 
@@ -43,7 +44,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.py) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.py) |
 | 1739B | [Array Recovery](https://codeforces.com/contest/1739/problem/B) | 1100 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/1739/B%20-%20Array%20Recovery/solution.py) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.py) |
 
 ---
 
