@@ -6,15 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 7 |
+| 8 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (1)
-- [implementation](#implementation) (4)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (5)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
 - [strings](#strings) (1)
@@ -32,6 +32,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.py) |
 | 1739B | [Array Recovery](https://codeforces.com/contest/1739/problem/B) | 1100 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/1739/B%20-%20Array%20Recovery/solution.py) |
 
 ### implementation
@@ -39,6 +40,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/133/A%20-%20HQ9%2B/solution.py) |
+| 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.py) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/520/A%20-%20Pangram/solution.py) |
 | 1095B | [Array Stabilization](https://codeforces.com/contest/1095/problem/B) | 900 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/1095/B%20-%20Array%20Stabilization/solution.py) |
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.py) |
