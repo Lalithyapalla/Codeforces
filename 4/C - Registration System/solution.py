@@ -1,10 +1,10 @@
 n = int(input())
-entries = [input() for _ in range(n)]
 d = {}
-for name in entries:
+for _ in range(n):
+    name = input()
     if name not in d:
+        d[name] = 0
         print('OK')
-        d[name] = 1
     else:
-        print(name + str(d[name]))
         d[name] += 1
+        print(f'{name}{d[name]}')
