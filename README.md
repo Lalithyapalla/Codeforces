@@ -6,15 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 8 |
+| 10 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [constructive algorithms](#constructive-algorithms) (1)
+- [data structures](#data-structures) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (6)
+- [hashing](#hashing) (1)
+- [implementation](#implementation) (7)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
@@ -29,6 +31,12 @@
 |---|---------|------------|----------|
 | 1739B | [Array Recovery](https://codeforces.com/contest/1739/problem/B) | 1100 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/1739/B%20-%20Array%20Recovery/solution.py) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/4/C%20-%20Registration%20System/solution.py) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -37,10 +45,17 @@
 | 1739B | [Array Recovery](https://codeforces.com/contest/1739/problem/B) | 1100 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/1739/B%20-%20Array%20Recovery/solution.py) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/1742/B%20-%20Increasing/solution.py) |
 
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/4/C%20-%20Registration%20System/solution.py) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/4/C%20-%20Registration%20System/solution.py) |
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/133/A%20-%20HQ9%2B/solution.py) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.py) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/520/A%20-%20Pangram/solution.py) |
