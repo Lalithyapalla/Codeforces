@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 10 |
+| 11 | 10 |
 
 ---
 
@@ -14,13 +14,13 @@
 
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
-- [greedy](#greedy) (3)
-- [hashing](#hashing) (1)
+- [greedy](#greedy) (4)
+- [hashing](#hashing) (2)
 - [implementation](#implementation) (7)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -42,6 +42,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.py) |
+| 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.py) |
 | 1739B | [Array Recovery](https://codeforces.com/contest/1739/problem/B) | 1100 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/1739/B%20-%20Array%20Recovery/solution.py) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/1742/B%20-%20Increasing/solution.py) |
 
@@ -50,6 +51,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/4/C%20-%20Registration%20System/solution.py) |
+| 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.py) |
 
 ### implementation
 
@@ -88,6 +90,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/520/A%20-%20Pangram/solution.py) |
+| 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [Python 3](https://github.com/Lalithyapalla/Codeforces/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.py) |
 
 ### two pointers
 
